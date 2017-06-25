@@ -1,17 +1,18 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="censio.love" resolutions="1x" timestamp="1498233048427">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="censio.love" resolutions="1x" timestamp="1498422311451">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4290974858" ref="index"/>
-    <file name="nomq_index.css" crc="65557233" ref="index"/>
+    <file name="index.css" crc="4248254037" ref="index"/>
+    <file name="nomq_index.css" crc="4018348238" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="museconfig.js" crc="4273287925" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
   </folder>
   <folder name="images">
     <file name="letterhead_01.svg" crc="65185506" seo="true" ref="index">
@@ -19,9 +20,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="letterhead_01_poster_.png" crc="5307236" ref="index"/>
+    <file name="letterhead_01_poster_.png" crc="3990371683" ref="index"/>
+    <file name="trello-woman.jpg" crc="529714828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trello-woman-u320-fr.jpg" crc="503691276" ref="index"/>
+    <file name="trello-woman-u320-fr2.jpg" crc="4294213981" ref="index"/>
+    <file name="trello-woman-u320-fr3.jpg" crc="331730955" ref="index"/>
+    <file name="trello-woman-u320-fr4.jpg" crc="4274565189" ref="index"/>
+    <file name="trello-woman-u320-fr5.jpg" crc="3782776144" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4080181867" seo="true" mt="1498231447341" redirect="true"/>
+  <file name="index.html" crc="4019531033" seo="true" mt="1498422293961" redirect="true"/>
 </manifest>
